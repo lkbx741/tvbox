@@ -15,6 +15,20 @@
         "filterable": 1,
         "ext": "https://jk.catvod.site/jk/t4/douban.json"
         },
+    {
+   "key": "py_huangguo",
+   "name": "黄果短剧[py]",
+   "type": 3,
+   "api": "./js/ss/huangguo.py",
+   "ext": ""
+  },
+  {
+   "key": "py_huangdou",
+   "name": "黄豆短剧[py]",
+   "type": 3,
+   "api": "./js/ss/huangdou.py",
+   "ext": ""
+  },
         {
 			"key": "damixingqiu",
 			"name": "大米星球.py",
@@ -45,19 +59,7 @@
 			"type": 3,
 			"api": "https://mpimg.cn/down.php/4a5e242d16f467d74e45c1bb74c7c428.py"
 		},
-		{
-			"key": "huangdou",
-			"name": "黄豆短剧.py",
-			"type": 3,
-			"api": "https://mpimg.cn/down.php/dbdcc99262e3ca9bd78d3e9ef43e5bde.py"
-		},
-        {
-			"key": "ybhz",
-			"name": "玉蚌含珠.py",
-			"type": 3,
-			"api": "https://mpimg.cn/down.php/c806bd277b0934fb0eb4820f7c6a16f6.py&3392591"
-		},
-        {
+    {
 			"key": "jpsn",
 			"name": "极品少女.py",
 			"type": 3,
