@@ -54,6 +54,7 @@ CATEGORY_LIST = [
     {"type_id": "36", "type_name": "短剧"},
     {"type_id": "22", "type_name": "动漫"},
     {"type_id": "23", "type_name": "综艺"},
+    {"type_id": "35", "type_name": "福利"},
 ]
 
 
@@ -331,7 +332,7 @@ class Spider(BaseSpider):
             # 短剧 /vodtype/36.html
             # 动漫 /vodtype/22.html
             # 综艺 /vodtype/23.html
-            #
+            # 福利 /vodtype/35.html
             # 列表页采用 MacCMS 常见 vodshow 路由。
             if page == 1:
                 url = SITE + "/vodshow/%s-----------.html" % tid
