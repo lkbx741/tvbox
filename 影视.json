@@ -32,14 +32,14 @@
    "key": "py_huangguo",
    "name": "黄果短剧[py]",
    "type": 3,
-   "api": "./js/ss/huangguo.py",
+   "api": "./js/ss/黄果短剧.py",
    "ext": ""
   },
   {
    "key": "py_huangdou",
    "name": "黄豆短剧[py]",
    "type": 3,
-   "api": "./js/ss/黄果短剧.py",
+   "api": "./js/ss/huangdou.py",
    "ext": ""
   },
         {
