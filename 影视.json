@@ -15,6 +15,19 @@
         "filterable": 1,
         "ext": "https://jk.catvod.site/jk/t4/douban.json"
         },
+     {
+      "key": "配置中心",
+      "name": "🌐配置中心｜9.03版",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
+    },
     {
    "key": "py_huangguo",
    "name": "黄果短剧[py]",
