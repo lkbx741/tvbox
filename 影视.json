@@ -70,7 +70,7 @@
 			"key": "juese4k",
 			"name": "绝色4K.py",
 			"type": 3,
-			"api": "https://mpimg.cn/down.php/4a5e242d16f467d74e45c1bb74c7c428.py"
+			"api": "./tvbox/blob/main/影视.json"
 		},
     {
 			"key": "jpsn",
