@@ -76,7 +76,7 @@
 			"key": "juese4k",
 			"name": "绝色4K.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/lkbx741/tvbox/refs/heads/main/py/%E7%BB%9D%E8%89%B24K.py"
+			"api": "./py/绝色4K.py"
 		},
     {
 			"key": "jpsn",
